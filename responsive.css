@@ -1,0 +1,194 @@
+/* untuk tablet */
+@media screen and (max-width: 1024px) {
+    .wrapper {
+        width: 85%;
+        margin: 130px auto 0px;
+        padding-top: 0px;
+    }
+    nav {
+        height: 10%;
+    }
+    .header span {
+        color: black;
+        display:block;
+        float: right;
+        margin-right: 27px;
+        margin-top: 35px;
+        font-size: 25px;
+    }
+    nav .menu {
+        width: 0%;
+    }
+    .wrapper img {
+        width: 0px;
+    }
+    .content-wrapper {
+        width: 100%;
+    }
+    .courses {
+        width: 45%;
+    }
+    .course-icon {
+        margin-top: 40px
+    }
+    .heading {
+        width: 80%;
+        margin: 0px auto 0px;
+    }
+    .contact {
+        width: 100%;
+    }
+    .contact .contact-form {
+        width: 37%;
+        height: 17%;
+        margin-bottom: 10px;
+    }
+}
+/* Untuk Smartphone */
+@media screen and (max-width: 400px) {
+    nav {
+        width: 410px;
+        height: 5%;
+    }
+    .logo a {
+        font-size: 17px;
+        margin-top: 2px;
+        margin-left: 13px;
+        padding-left: 2px;
+    }
+    .header span {
+        font-size: 15px;
+        margin-right: 59px;
+        margin-top: 10px;
+    }
+    .wrapper {
+        width: 90%;
+        margin-top: 50px;
+        height: 80px;
+        padding-top: 0px;
+        padding-left: 0px;
+    }
+    .wrapper img {
+        margin: 0px;
+        font-size: 0px;
+    }
+    .kolom h2 {
+        margin-top: 0px;
+        padding-top: 0px;
+        font-size: 0px;
+    }
+    .kolom p {
+        font-size: 0px;
+        margin-bottom: 0px;
+    }
+    .btn-signup {
+        width: 0%;
+        height: 0%;
+        padding: 0px;
+        font-size: 0px;
+    }
+    .btn-more {
+        width: 0%;
+        height: 0%;
+        padding: 0px;
+        font-size: 0px;
+    }
+    .content-wrapper {
+        width: 100%;    
+    }
+    .heading {
+        padding: 0px auto 0px;
+    }
+    .heading h1 {
+        font-size: 25px;
+    }
+    .heading p {
+        font-size: 10px;
+    }
+    .course-icon img {
+        width: 180px;
+    }
+    .txt-content {
+        width: 100%;
+        height: 180px;
+    }
+    .txt-content h2 {
+        font-size: 20px;
+    }
+    .txt-content p {
+        font-size: 13px;
+        margin-bottom: 6px;
+    }
+    .btn-course {
+        font-size: 12px;
+    }
+    .tutor-wrapper h3 {
+        font-size: 25px;
+    }
+    .tutor-wrapper p {
+        font-size: 10px;
+    }
+    .tutor-card {
+        width: 220px;
+        height: 265px;
+        text-align: center;
+        margin: 20px auto 20px;
+    }
+    .btn-tutor {
+        font-size: 10px;
+    }
+    .contact-form {
+      width: 0%;
+      height: 0%;
+      padding: 0px;
+      margin: 0px;
+      background-color: #364F6B;
+    }
+    .contact-form h3 {
+        font-size: 0px;
+    }
+    .contact-form p {
+        font-size: 0px;
+    }
+    .email {
+        width: 0%;
+        height: 0%;
+        padding: 0px;
+        margin: 0px;
+        border-color: #364F6B;
+        background-color: #364F6B;
+    }
+    .pesan {
+        width: 0%;
+        height: 0%;
+        padding: 0px;
+        margin: 0px;
+        border-color: #364F6B;
+        background-color: #364F6B;
+    }
+    .contact-submit {
+        font-size: 0px;
+        width: 0%;
+        height: 0%;
+        padding: 0px;
+        margin: 0px;
+        border-color: #364F6B;
+        background-color: #364F6B;
+    }
+    .service h3 {
+        font-size: 15px;
+    }
+    .service p {
+        font-size: 10px;
+    }
+    .social h3 {
+        font-size: 15px;
+    }
+    .social p {
+        font-size: 10px;
+    }
+    .copyright {
+        font-size: 10px;
+    }
+
+}
